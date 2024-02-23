@@ -4,8 +4,24 @@ body {
 .inline-block{
     display: inline-block;
     vertical-align: top;
-    width: 
-    padding: 1%
-    
-
 }
+    .logo{
+        width: 23%;
+        padding: 1%;
+        text-align: center;
+    }
+
+    nav{
+        width: 72%;
+        padding: 1%;
+    }
+
+    ul{
+        width: 50%;
+        margin-left: auto;
+    }
+    
+    .logoimage{
+        height: 50px;
+    }
+    
